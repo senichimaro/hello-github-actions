@@ -1,0 +1,2 @@
+name: A Hello World workflow
+on: push

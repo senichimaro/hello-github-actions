@@ -6,5 +6,5 @@ This course will walk you through writing your first action and using it with a 
 
 ## Most used commands
 ```
-git add . git commit -m ""
+git add . && git commit -m "" && git push origin first-action
 ```
